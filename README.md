@@ -31,67 +31,67 @@
 
 ### 有學號資料的學生
 
-1. **1124A002 楊佳穎 (Angela)**
+1. **1124A002 楊佳穎 (Angela)（Copilot Pro加分）**
    - GitHub: [angela931201](https://github.com/angela931201)
    - 作業1: [-](https://github.com/angela931201/-)
 
-2. **1124A005 黃丞浩**
+2. **1124A005 黃丞浩（Copilot Pro加分）**
    - GitHub: [Huang940708](https://github.com/Huang940708)
    - 作業1: [Homework](https://github.com/Huang940708/Homework.git)
 
-3. **1124A006 鄭又甄**
+3. **1124A006 鄭又甄（Copilot Pro加分）**
    - GitHub: [yuchen930908](https://github.com/yuchen930908)
    - 作業1: [0418](https://github.com/yuchen930908/0418)
 
-4. **1124A010 張記華**
+4. **1124A010 張記華（Copilot Pro加分）**
    - GitHub: [Hua711](https://github.com/Hua711)
    - 作業1: [web-pwm](https://github.com/Hua711/web-pwm)
 
-5. **1124A014 曾翊珊**
+5. **1124A014 曾翊珊（Copilot Pro加分）**
    - GitHub: [shannn333](https://github.com/shannn333)
    - 作業1: [homework](https://github.com/shannn333/homework)
 
-6. **1124A017 張起維**
+6. **1124A017 張起維（Copilot Pro加分）**
    - GitHub: [chiwei813](https://github.com/chiwei813)
    - 作業1: [myarduino](https://github.com/chiwei813/myarduino)
 
-7. **1124A023 林榆庭**
+7. **1124A023 林榆庭（Copilot Pro加分）**
    - GitHub: [linyuting12](https://github.com/linyuting12)
    - 作業1: [0418](https://github.com/linyuting12/0418)
 
-8. **1124A028 陳子渝**
+8. **1124A028 陳子渝（Copilot Pro加分）**
    - GitHub: [ziiyuu9](https://github.com/ziiyuu9)
    - 作業1: [0418](https://github.com/ziiyuu9/0418)
 
-9. **1124A030 黃譯欣**
+9. **1124A030 黃譯欣（Copilot Pro加分）**
    - GitHub: [HUANG-YI-XIN](https://github.com/HUANG-YI-XIN)
    - 作業1: [Hiiiii](https://github.com/HUANG-YI-XIN/Hiiiii)
 
-10. **1124A032 丁歐文**
+10. **1124A032 丁歐文（Copilot Pro加分）**
     - GitHub: [owen906](https://github.com/owen906)
     - 作業1: [homework](https://github.com/owen906/homework.git)
 
-11. **1124A034 黃詩琪**
+11. **1124A034 黃詩琪（Copilot Pro加分）**
     - GitHub: [soya0924](https://github.com/soya0924)
     - 作業1: [homework0418](https://github.com/soya0924/homework0418)
 
-12. **1124A042 張劭瑀**
+12. **1124A042 張劭瑀（Copilot Pro加分）**
     - GitHub: [CLAIRE044](https://github.com/CLAIRE044)
     - 作業1: [1145/adjustable_resistor_led.ino](https://github.com/CLAIRE044/1145/blob/main/adjustable_resistor_led.ino)
 
-13. **1124A044 張恩瑄**
+13. **1124A044 張恩瑄（Copilot Pro加分）**
     - GitHub: [1124A044](https://github.com/1124A044)
     - 作業1: [0418test](https://github.com/1124A044/0418test)
 
-14. **1124A045 吳莊緯**
+14. **1124A045 吳莊緯（Copilot Pro加分）**
     - GitHub: [zhuang-wel](https://github.com/zhuang-wel)
     - 作業1: [Desktop/branches](https://github.com/zhuang-wel/Desktop/branches)
 
-15. **1124A046 李姵誼**
+15. **1124A046 李姵誼（Copilot Pro加分）**
     - GitHub: [PEIYILEE](https://github.com/PEIYILEE)
     - 作業1: [home-work/arduino_potentiometer.ino](https://github.com/PEIYILEE/home-work/blob/main/arduino_potentiometer.ino)
 
-16. **1124A051 吳宜蓁**
+16. **1124A051 吳宜蓁（Copilot Pro加分）**
     - GitHub: [lemon-cxsscac](https://github.com/lemon-cxsscac)
     - 作業1: [418-1/1124a_418.ino](https://github.com/lemon-cxsscac/418-1/blob/5f47a46007edd960c50869226dce6f30103c6c32/1124a_418.ino)
 
